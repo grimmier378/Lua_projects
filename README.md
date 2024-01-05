@@ -1,6 +1,9 @@
--- Reworking SoloLootManager to be a Spawn Checker ~thank you Jackalo~
--- Basically LUA version of MQ2SpawnMaster using Sql Lite.
---[[ 
+This repo is going to house all of my LUA projects. 
+SMC is the first one.
+ Reworking SoloLootManager to be a Spawn Checker ~thank you Jackalo~
+
+ Basically LUA version of MQ2SpawnMaster using Sql Lite.
+ 
 Goals for this project. 
   * have the lua scan the zone for all mobs, populate them into a table on the gui 
   * allow the user to search for npcs by name and navigate to them 
@@ -23,4 +26,4 @@ Goals for this project.
     * doesn't automatically refresh the zone on zoning, it does change the name on tab to current zone. but the data is stale and you need to press refresh button
     Future 
     * all of the other items not listed in working and not working.
-    ]]# Lua_projects
+
