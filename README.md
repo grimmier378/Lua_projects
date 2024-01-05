@@ -1,8 +1,9 @@
 This repo is going to house all of my LUA projects. 
 SMC is the first one.
- Reworking SoloLootManager to be a Spawn Checker ~thank you Jackalo~
 
- Basically LUA version of MQ2SpawnMaster using Sql Lite.
+ Reworking SoloLootManager to be a Spawn Checker thank you Jackalo.
+
+ Basically LUA version of MQ2SpawnMaster using Sql Lite. eventually!
  
 Goals for this project. 
   * have the lua scan the zone for all mobs, populate them into a table on the gui 
